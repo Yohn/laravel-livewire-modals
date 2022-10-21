@@ -27,7 +27,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Yohn\\LaravelLivewireModals\\src\\Providers\\LaravelLivewireModalsProvider"
+                "Yohn\\LaravelLivewireModals\\Providers\\LaravelLivewireModalsProvider"
             ]
         }
     }
