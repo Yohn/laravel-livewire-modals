@@ -1,6 +1,6 @@
 <?php
 
-namespace Truongnguyendev\LaravelLivewireModals\Providers;
+namespace Yohn\LaravelLivewireModals\Providers;
 
 use Truongnguyendev\LaravelLivewireModals\Components\Modals;
 use Illuminate\Support\ServiceProvider;
