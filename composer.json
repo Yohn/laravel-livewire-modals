@@ -8,11 +8,16 @@
             "name": "Truong Nguyen",
             "email": "truongnx28111994@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "John Brittain III",
+            "email": "jb@jw3b.com",
+            "role": "Developer"
         }
     ],
     "require": {
-        "laravel/framework": "^9.*.*",
-        "livewire/livewire": "^2.*.*"
+        "laravel/framework": "^9.19",
+        "livewire/livewire": "^2.10"
     },
     "autoload": {
         "psr-4": {
